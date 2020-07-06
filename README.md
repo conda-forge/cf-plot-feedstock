@@ -5,7 +5,7 @@ Home: https://github.com/ajheaps/cf-plot
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Climate contour, vector and line plots in Python
 
