@@ -17,12 +17,12 @@ build:
 
 requirements:
   host:
-    - python >=3
+    - python >=3.6
     - pip
   run:
-    - python >=3
+    - python >=3.6
     - cartopy >=0.17.0
-    - cf-python >=3
+    - cf-python >=3.9.0
     - matplotlib-base >=3.1.0
     - scipy >=1.4.0
 
