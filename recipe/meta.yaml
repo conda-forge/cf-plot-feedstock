@@ -1,5 +1,5 @@
 {% set name = "cf-plot" %}
-{% set version = "3.1.26" %}
+{% set version = "3.1.28" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: e7b51971dc7d6ca394eae2587741dcc48bb6c48cfe6435fbb835440d33e9dcd7
+  sha256: 80ee1de0a9f3e8f31ba40d19ed127e18421ef6c1a8ad0253c167a32df060c00f
 
 build:
   number: 0
