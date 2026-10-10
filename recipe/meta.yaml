@@ -1,5 +1,5 @@
 {% set name = "cf-plot" %}
-{% set version = "3.4.0" %}
+{% set version = "3.5.0" %}
 {% set python_min = "3.10" %}
 
 package:
@@ -7,8 +7,8 @@ package:
   version: {{ version }}
 
 source:
-  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name | replace('-', '_') }}-{{ version }}.tar.gz
-  sha256: aa86a09c22ee5d5e5b0949735208a38441848d3fe6e800b48e592bd52fe7d781
+  url: https://files.pythonhosted.org/packages/source/{{ name[0] }}/{{ name }}/{{ name | replace('-', '_') }}-{{ version }}.tar.gz
+  sha256: 05feafdb9de06644e82d3d31c0b189850f87af632735a80a881c39ea80aa9526
 
 build:
   number: 0
