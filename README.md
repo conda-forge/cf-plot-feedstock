@@ -3,11 +3,11 @@ About cf-plot-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/cf-plot-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/ajheaps/cf-plot
+Home: https://ncas-cms.github.io/cf-plot/
 
 Package license: MIT
 
-Summary: Climate contour, vector and line plots in Python
+Summary: Code-light plotting for earth science and aligned research
 
 Current build status
 ====================
